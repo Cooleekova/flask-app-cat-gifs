@@ -1,5 +1,3 @@
-## Простое Flask приложение, развёрнутое на сервере Heroku.
+## Simple Flask app deployed on Heroku web server
 
-Исходный код получен из открытого репозитория:
-
-``` https://github.com/prakhar1989/docker-curriculum```
+Inspired by [@prakhar1989](https://github.com/prakhar1989/docker-curriculum)

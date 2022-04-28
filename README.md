@@ -1,4 +1,4 @@
-### Simple Flask app deployed on Heroku web server
+### Simple Flask app deployed to Heroku web server
 
 The app itself is available [here](https://atya-cat-gifs.herokuapp.com/)
 
